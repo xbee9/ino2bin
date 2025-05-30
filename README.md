@@ -26,10 +26,10 @@
 
 ## 📦 Installation
 
-1. **Install Arduino CLI**  
+1. **Install Arduino CLI[OPTIONAL INSTALLATION ALREADY INCLUDED IN THE SCRIPT]**  
    Follow the [official instructions](https://arduino.github.io/arduino-cli/latest/installation/) for your OS.
 
-2. **Install ESP8266/ESP32 board support**  
+2. **Install ESP8266/ESP32 board support[OPTIONAL INSTALLATION ALREADY INCLUDED IN THE SCRIPT]**  
    Example for ESP8266:
    ```
    arduino-cli core update-index
