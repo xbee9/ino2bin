@@ -40,9 +40,13 @@
    ```
    git clone https://github.com/xbee9/ino2bin.git
    cd ino2bin
-   python3 ino2bin.py /path/to/youur/ino/file
+   chmod +x installer.sh
+   ./installer.sh
    ```
-
+4. **Do in a single step**
+```
+   git clone https://github.com/xbee9/ino2bin.git && cd ino2bin && chmod +x installer.sh && ./installer.sh
+```
 ---
 
 ## 🚚 Usage
