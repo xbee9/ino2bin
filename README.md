@@ -87,7 +87,7 @@ Output:
 [+] Success: Binary located at:
     /your/path/build/Blink.ino.bin
 ```
-
+This tool is ideal for developers seeking a lightweight and automated solution to compile Arduino sketches into firmware binaries without relying on the full Arduino IDE.
 ---
 ## 📝 Dependencies
 - [Arduino CLI](https://arduino.github.io/arduino-cli/latest/)
